@@ -23,7 +23,6 @@
   <circle cx="190" cy="147" r="4" fill="#2f81f7"/>
   <circle cx="406" cy="123" r="4" fill="#8250df"/>
   <circle cx="710" cy="137" r="4" fill="#f97316"/>
-  <text x="54" y="46" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">student@shanghai:~$ whoami</text>
   <text x="450" y="115" fill="#1f2328" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="800" text-anchor="middle" letter-spacing="8">HIMIFOX</text>
   <rect x="306" y="133" width="288" height="2" rx="1" fill="url(#accent)"/>
   <text x="450" y="168" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="middle" letter-spacing="2">BACKEND · DISTRIBUTED SYSTEMS · OPEN SOURCE</text>
