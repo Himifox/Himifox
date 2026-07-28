@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" width="170" src="./assets/fox.svg" alt="Himifox mascot">
+<img align="right" width="170" src="./assets/avatar-expression.png" alt="Himifox avatar making a playful peace sign">
 
 ### Hello, I'm Himifox.
 
