@@ -52,17 +52,6 @@ I'm a student at **Shanghai University** exploring how reliable software is desi
 ### GitHub snapshot
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himifox&amp;theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himifox&amp;theme=github" alt="Himifox GitHub statistics">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himifox&amp;theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himifox&amp;theme=github" alt="Himifox languages by commit">
-  </picture>
-</p>
-
-<p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himifox&amp;bg_color=00000000&amp;color=8b949e&amp;line=2f81f7&amp;point=f97316&amp;area=true&amp;area_color=2f81f7&amp;hide_border=true&amp;custom_title=Contribution%20rhythm" alt="Himifox contribution graph">
 </p>
 
