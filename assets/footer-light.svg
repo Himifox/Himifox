@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" width="900" height="72" role="img" aria-label="Thanks for stopping by">
   <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F97316;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#F97316;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#2F81F7;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#2F81F7;stop-opacity:0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#2f81f7"/>
+      <stop offset="0.7" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="80" fill="#ffffff" rx="16"/>
-  <path d="M 200 40 Q 300 20 400 40 Q 500 60 600 40 Q 650 30 700 40" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.4"/>
-  <text x="450" y="45" font-family="system-ui, sans-serif" font-size="13" fill="#9ca3af" text-anchor="middle" letter-spacing="3">✨ Thanks for stopping by ✨</text>
+  <rect width="900" height="72" rx="18" fill="#ffffff"/>
+  <path d="M170 36H330M570 36H730" stroke="url(#accent)" stroke-width="1.5"/>
+  <circle cx="330" cy="36" r="3" fill="#2f81f7"/>
+  <circle cx="570" cy="36" r="3" fill="#f97316"/>
+  <text x="450" y="41" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="middle" letter-spacing="2">THANKS FOR STOPPING BY</text>
 </svg>

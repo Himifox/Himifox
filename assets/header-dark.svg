@@ -1,16 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-labelledby="title desc">
+  <title id="title">Himifox</title>
+  <desc id="desc">Backend engineering, distributed systems, and open source</desc>
   <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:0"/>
-      <stop offset="25%" style="stop-color:#58A6FF;stop-opacity:1"/>
-      <stop offset="50%" style="stop-color:#BC8CFF;stop-opacity:1"/>
-      <stop offset="75%" style="stop-color:#FF7B24;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#FF7B24;stop-opacity:0"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.52" stop-color="#a371f7"/>
+      <stop offset="1" stop-color="#ff7b24"/>
     </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a371f7" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ff7b24" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#30363d" stroke-width="0.7"/>
+    </pattern>
   </defs>
-  <rect width="900" height="120" fill="#0d1117" rx="16"/>
-  <path d="M 100 60 Q 200 30 300 60 Q 400 90 500 60 Q 600 30 700 60 Q 750 70 800 60" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.6"/>
-  <path d="M 150 80 Q 250 50 350 80 Q 450 110 550 80 Q 650 50 750 80 Q 800 90 850 80" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.3"/>
-  <text x="450" y="65" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="4">Hi there 👋</text>
-  <text x="450" y="95" font-family="system-ui, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" letter-spacing="2">Welcome to my GitHub profile</text>
+  <rect width="900" height="220" rx="20" fill="#0d1117"/>
+  <rect width="900" height="220" rx="20" fill="url(#grid)" opacity="0.42"/>
+  <ellipse cx="450" cy="112" rx="330" ry="96" fill="url(#glow)"/>
+  <path d="M190 147C270 101 331 169 406 123S542 76 710 137" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+  <circle cx="190" cy="147" r="4" fill="#58a6ff"/>
+  <circle cx="406" cy="123" r="4" fill="#a371f7"/>
+  <circle cx="710" cy="137" r="4" fill="#ff7b24"/>
+  <text x="54" y="46" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">student@shanghai:~$ whoami</text>
+  <text x="450" y="115" fill="#f0f6fc" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="800" text-anchor="middle" letter-spacing="8">HIMIFOX</text>
+  <rect x="306" y="133" width="288" height="2" rx="1" fill="url(#accent)"/>
+  <text x="450" y="168" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" text-anchor="middle" letter-spacing="2">BACKEND · DISTRIBUTED SYSTEMS · OPEN SOURCE</text>
 </svg>
