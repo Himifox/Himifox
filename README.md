@@ -32,14 +32,21 @@ I'm a student at **Shanghai University** exploring how reliable software is desi
 | :--- | :--- | :--- |
 | APIs, data modeling, caching, and the details that make services dependable. | Consistency, coordination, failure modes, and designing for change. | Learning in public, reading real-world code, and contributing where I can. |
 
-### Toolbox
+### Built with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,ts,spring,mysql,redis,docker,git,linux&amp;perline=10" alt="Java, Python, Go, TypeScript, Spring, MySQL, Redis, Docker, Git, and Linux">
+  <img src="https://skillicons.dev/icons?i=py,ts,vue,fastapi,vite,sqlite,docker,git&amp;perline=8" alt="Python, TypeScript, Vue, FastAPI, Vite, SQLite, Docker, and Git">
 </p>
 
 <p align="center">
-  <sub>Languages for ideas · tools for dependable systems</sub>
+  <img src="https://img.shields.io/badge/NoneBot2-121212?style=flat-square" alt="NoneBot2">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&amp;logo=uv&amp;logoColor=white" alt="uv">
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&amp;logo=pinia&amp;logoColor=1f2328" alt="Pinia">
+  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&amp;logo=elementplus&amp;logoColor=white" alt="Element Plus">
+</p>
+
+<p align="center">
+  <sub>Verified in <a href="https://github.com/Himifox/T.T.S-update">T.T.S-update</a>, <a href="https://github.com/Himifox/Pardo-bot">Pardo-bot</a>, and <a href="https://github.com/Himifox/PaperLinker">PaperLinker</a>.</sub>
 </p>
 
 ### GitHub snapshot
