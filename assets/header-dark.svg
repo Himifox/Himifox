@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:0"/>
+      <stop offset="25%" style="stop-color:#58A6FF;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#BC8CFF;stop-opacity:1"/>
+      <stop offset="75%" style="stop-color:#FF7B24;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#FF7B24;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#0d1117" rx="16"/>
+  <path d="M 100 60 Q 200 30 300 60 Q 400 90 500 60 Q 600 30 700 60 Q 750 70 800 60" fill="none" stroke="url(#g)" stroke-width="2" opacity="0.6"/>
+  <path d="M 150 80 Q 250 50 350 80 Q 450 110 550 80 Q 650 50 750 80 Q 800 90 850 80" fill="none" stroke="url(#g)" stroke-width="1.5" opacity="0.3"/>
+  <text x="450" y="65" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="4">Hi there 👋</text>
+  <text x="450" y="95" font-family="system-ui, sans-serif" font-size="14" fill="#8b949e" text-anchor="middle" letter-spacing="2">Welcome to my GitHub profile</text>
+</svg>
