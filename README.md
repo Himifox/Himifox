@@ -52,8 +52,14 @@ I'm a student at **Shanghai University** exploring how reliable software is desi
 ### GitHub snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himifox&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2f81f7&amp;icon_color=f97316&amp;text_color=8b949e&amp;rank_icon=github" alt="Himifox GitHub statistics">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himifox&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=2f81f7&amp;text_color=8b949e&amp;langs_count=6" alt="Most used languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himifox&amp;theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Himifox&amp;theme=github" alt="Himifox GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himifox&amp;theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Himifox&amp;theme=github" alt="Himifox languages by commit">
+  </picture>
 </p>
 
 <p align="center">
