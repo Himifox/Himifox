@@ -1,18 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img width="100%" src="./assets/header-light.svg" alt="Himifox — backend, distributed systems, and open source">
-</picture>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Shanghai%2C_China-2f81f7?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Based in Shanghai, China">
-  <img src="https://img.shields.io/badge/Student-Shanghai_University-8250df?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Student at Shanghai University">
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-f97316?style=flat-square&amp;logo=codecrafters&amp;logoColor=white" alt="Focused on backend engineering">
-</p>
-
-<br>
-
-<img align="right" width="170" src="./assets/avatar-expression.png" alt="Himifox avatar making a playful peace sign">
-
 ### Hello, I'm Himifox.
 
 I'm a student at **Shanghai University** exploring how reliable software is designed, built, and operated. My current interests sit at the intersection of backend engineering, distributed systems, and open source.
