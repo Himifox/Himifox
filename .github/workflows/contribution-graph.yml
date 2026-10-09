@@ -1,0 +1,47 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: '17 0 * * *' # 08:17 Asia/Shanghai
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-graph.yml'
+      - 'scripts/contribution-graph.mjs'
+      - 'scripts/contribution-graph.test.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify generator
+        run: node --test scripts/contribution-graph.test.mjs
+      - name: Generate graph
+        run: node scripts/contribution-graph.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Save updated graph
+        run: |
+          git add -- assets/contribution-graph.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update contribution graph"
+          git push

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title description">
+  <title id="title">Contribution rhythm</title>
+  <desc id="description">Contribution data will appear after the first successful Update contribution graph workflow run.</desc>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" fill="#8b949e" text-anchor="middle">
+    <text x="480" y="30" font-size="20" font-weight="600">Contribution rhythm</text>
+    <path d="M62 238H932" stroke="#2f81f7" stroke-opacity=".4"/>
+    <text x="480" y="145" font-size="16">Awaiting the first contribution update</text>
+    <text x="480" y="174" font-size="12">Updated daily from GitHub · Last 31 days</text>
+  </g>
+</svg>
