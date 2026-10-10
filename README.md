@@ -1,62 +1,52 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img width="100%" src="./assets/header-light.svg" alt="Himifox — AI companions, Live2D, and game modding">
-</picture>
+### Hello, I'm Himifox.
 
-<img align="right" width="150" src="./assets/avatar-expression.png" alt="Himifox's character avatar">
+I'm a student at **Shanghai University** exploring AI companionship, Live2D, and game modding. I enjoy building characters that remember, respond, and take part in everyday interactions.
 
-### Hi, I'm Himifox.
-
-I'm a student at **Shanghai University**, exploring AI companionship, Live2D, and game modding. I enjoy building characters that remember, respond, and take part in everyday interactions — from a shared web room to a farm in Stardew Valley.
-
-<p>
-  <img src="https://img.shields.io/badge/AI-Companions-8250df?style=flat-square" alt="AI companions">
-  <img src="https://img.shields.io/badge/Live2D-Characters-2f81f7?style=flat-square" alt="Live2D characters">
-  <img src="https://img.shields.io/badge/Stardew-Valley-79a95d?style=flat-square" alt="Stardew Valley">
-</p>
+- Exploring persistent memory and personality in AI companions
+- Bringing virtual characters to life with voice and Live2D
+- Building a farm companion for Stardew Valley
+- Debugging with `println` until the mystery gives up
 
 <br clear="right">
 
-## 🛠 Projects
+---
 
-### [NEKO-ONE](https://github.com/Himifox/NEKO-ONE)
+### What I'm exploring
 
-A shared web room hosted by a Live2D character with a persistent persona, layered memory, and synchronized voice replies.
+| AI companionship | Embodied characters | Open collaboration |
+| :--- | :--- | :--- |
+| Persistent identity, layered memory, and conversations that carry context over time. | Connecting voice, expressions, and actions through Live2D and game worlds. | Learning from real-world code and building on open-source projects. |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+### Built with
 
-### [N.E.K.O-Himifox](https://github.com/Himifox/N.E.K.O-Himifox)
-
-My fork of N.E.K.O., an AI companion platform with real-time voice, visual understanding, memory, and avatar interaction.
-
-![Fork](https://img.shields.io/badge/Fork-N.E.K.O.-8250df?style=flat-square&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Live2D](https://img.shields.io/badge/Live2D-ff6699?style=flat-square)
-
-### [Yui to Issho!](https://github.com/Himifox/Yui-for-stawvalley)
-
-A Stardew Valley companion mod. Yui follows you, chats, builds friendship, and helps with nearby farm work using her own tools and stamina.
-
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SMAPI](https://img.shields.io/badge/SMAPI-79a95d?style=flat-square)
-
-### [Pardo-bot / NekoPardo](https://github.com/Himifox/Pardo-bot)
-
-A QQ character companion with conversation memory, voice replies, and usage budgets.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NoneBot2](https://img.shields.io/badge/NoneBot2-EA5252?style=flat-square) ![OneBot](https://img.shields.io/badge/OneBot-V11-5865F2?style=flat-square)
-
-[Browse my repositories →](https://github.com/Himifox?tab=repositories)
-
-## 🎨 Toolbox
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,cs,dotnet,fastapi,postgres,sqlite,git&amp;perline=8" alt="Python, TypeScript, C#, .NET, FastAPI, PostgreSQL, SQLite, and Git">
 </p>
 
-- **Characters & bots** · Live2D / PixiJS / NoneBot2 / OneBot V11
-- **Game modding** · Stardew Valley / SMAPI
-- **Development** · uv / Git
+<p align="center">
+  <img src="https://img.shields.io/badge/NoneBot2-121212?style=flat-square" alt="NoneBot2">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&amp;logo=uv&amp;logoColor=white" alt="uv">
+  <img src="https://img.shields.io/badge/Live2D-ff6699?style=flat-square" alt="Live2D">
+  <img src="https://img.shields.io/badge/SMAPI-79a95d?style=flat-square" alt="SMAPI">
+</p>
 
-## 🌱 What I'm exploring
+<p align="center">
+  <sub>Projects: <a href="https://github.com/Himifox/NEKO-ONE">NEKO-ONE</a>, <a href="https://github.com/Himifox/N.E.K.O-Himifox">N.E.K.O-Himifox (fork)</a>, <a href="https://github.com/Himifox/Yui-for-stawvalley">Yui to Issho!</a>, and <a href="https://github.com/Himifox/Pardo-bot">Pardo-bot</a>.</sub>
+</p>
 
-- **AI companionship** — Persistent identity, useful memory, and interactions that carry context over time.
-- **Embodied characters** — Connecting conversation, voice, expressions, and actions through Live2D and game worlds.
-- **Reliable interaction** — Keeping shared room state, saved progress, and multiplayer actions consistent.
+### GitHub snapshot
+
+<p align="center">
+  <img width="92%" src="./assets/contribution-graph.svg" alt="Himifox contribution graph">
+</p>
+
+<br>
+
+<p align="center">
+  <i>Still learning. Still building. Still asking why it works on my machine.</i>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img width="100%" src="./assets/footer-light.svg" alt="Thanks for stopping by">
+</picture>
