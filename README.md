@@ -33,20 +33,3 @@ I'm a student at **Shanghai University** exploring how reliable software is desi
 <p align="center">
   <sub>Verified in <a href="https://github.com/Himifox/T.T.S-update">T.T.S-update</a>, <a href="https://github.com/Himifox/Pardo-bot">Pardo-bot</a>, and <a href="https://github.com/Himifox/PaperLinker">PaperLinker</a>.</sub>
 </p>
-
-### GitHub snapshot
-
-<p align="center">
-  <img width="92%" src="./assets/contribution-graph.svg" alt="Himifox contribution graph">
-</p>
-
-<br>
-
-<p align="center">
-  <i>Still learning. Still building. Still asking why it works on my machine.</i>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <img width="100%" src="./assets/footer-light.svg" alt="Thanks for stopping by">
-</picture>
