@@ -1,35 +1,50 @@
-### Hello, I'm Himifox.
+<h1 align="center">Hi, I'm Himifox.</h1>
 
-I'm a student at **Shanghai University** exploring how reliable software is designed, built, and operated. My current interests sit at the intersection of backend engineering, distributed systems, and open source.
+<p align="center">
+  Student at <strong>Shanghai University</strong><br>
+  Building AI companions, bringing characters to life, and exploring game modding.
+</p>
 
-- Building a strong foundation in backend development
-- Learning how systems behave beyond a single machine
-- Turning curiosity into small, practical projects
-- Debugging with `println` until the mystery gives up
-
-<br clear="right">
+<p align="center">
+  <a href="#projects">Projects</a> ·
+  <a href="#toolbox">Toolbox</a>
+</p>
 
 ---
 
-### What I'm exploring
+## About me
 
-| Backend systems | Distributed thinking | Open collaboration |
+I'm a student exploring how virtual characters can remember, respond, and take part in everyday interactions — from a shared web room to a farm in Stardew Valley.
+
+My projects bring together AI companionship, persistent memory, Live2D, and game modding. I enjoy working across the backend and the character's visible behavior, learning how to make those pieces work together reliably.
+
+## Projects
+
+| Project | What it does | Main technologies |
 | :--- | :--- | :--- |
-| APIs, data modeling, caching, and the details that make services dependable. | Consistency, coordination, failure modes, and designing for change. | Learning in public, reading real-world code, and contributing where I can. |
+| [NEKO-ONE](https://github.com/Himifox/NEKO-ONE) | A shared web room hosted by a Live2D character with a persistent persona, layered memory, and synchronized voice replies. | Python · FastAPI · PostgreSQL · WebSocket |
+| [N.E.K.O-Himifox](https://github.com/Himifox/N.E.K.O-Himifox) | My fork of N.E.K.O., an AI companion platform with real-time voice, visual understanding, memory, and avatar interaction. | Python · Live2D |
+| [Yui to Issho! — Farm Days Together](https://github.com/Himifox/Yui-for-stawvalley) | A Stardew Valley companion mod: Yui follows you, chats, builds friendship, and helps with nearby farm work using her own tools and stamina. | C# · .NET · SMAPI |
+| [Pardo-bot / NekoPardo](https://github.com/Himifox/Pardo-bot) | A QQ character companion with conversation memory, voice replies, and usage budgets. | Python · NoneBot2 · OneBot V11 |
 
-### Built with
+[Browse my repositories →](https://github.com/Himifox?tab=repositories)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,vue,fastapi,vite,sqlite,docker,git&amp;perline=8" alt="Python, TypeScript, Vue, FastAPI, Vite, SQLite, Docker, and Git">
-</p>
+## Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NoneBot2-121212?style=flat-square" alt="NoneBot2">
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&amp;logo=uv&amp;logoColor=white" alt="uv">
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&amp;logo=pinia&amp;logoColor=1f2328" alt="Pinia">
-  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&amp;logo=elementplus&amp;logoColor=white" alt="Element Plus">
-</p>
+Languages and tools I work with across my projects:
 
-<p align="center">
-  <sub>Verified in <a href="https://github.com/Himifox/T.T.S-update">T.T.S-update</a>, <a href="https://github.com/Himifox/Pardo-bot">Pardo-bot</a>, and <a href="https://github.com/Himifox/PaperLinker">PaperLinker</a>.</sub>
-</p>
+| Area | Tools |
+| :--- | :--- |
+| Languages | Python · TypeScript · C# |
+| Backend & realtime | FastAPI · WebSocket |
+| Chat bots | NoneBot2 · OneBot V11 |
+| Characters & rendering | Live2D · PixiJS |
+| Game modding | Stardew Valley · SMAPI · .NET |
+| Data & memory | PostgreSQL · SQLite |
+| Development | uv · Git |
+
+## What I'm exploring
+
+- **AI companionship** — Persistent identity, useful memory, and interactions that carry context over time.
+- **Embodied characters** — Connecting conversation, voice, expressions, and actions through Live2D and game worlds.
+- **Reliable interaction** — Keeping shared room state, saved progress, and multiplayer actions consistent.
