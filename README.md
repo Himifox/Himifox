@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <sub>Projects: <a href="https://github.com/Himifox/NEKO-ONE">NEKO-ONE</a>, <a href="https://github.com/Himifox/N.E.K.O-Himifox">N.E.K.O-Himifox (fork)</a>, <a href="https://github.com/Himifox/Yui-for-stawvalley">Yui to Issho!</a>, and <a href="https://github.com/Himifox/PardoNeko">Pardo-bot</a>.</sub>
+  <sub>Projects: <a href="https://github.com/Himifox/NEKO-ONE">NEKO-Online</a>, <a href="https://github.com/Himifox/N.E.K.O-Himifox">N.E.K.O (fork)</a>, <a href="https://github.com/Himifox/Yui-for-stawvalley">Yui to Issho!</a>, and <a href="https://github.com/Himifox/NekoPardo">Pardofelis</a>.</sub>
 </p>
