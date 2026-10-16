@@ -1,8 +1,5 @@
-### What I'm exploring
+### I'm exploring
 
-| AI companionship | Embodied characters | Open collaboration |
-| :--- | :--- | :--- |
-| Persistent identity, layered memory, and conversations that carry context over time. | Connecting voice, expressions, and actions through Live2D and game worlds. | Learning from real-world code and building on open-source projects. |
 
 ### Built with
 
